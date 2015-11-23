@@ -1,0 +1,11 @@
+"virtualswitch": {
+  "vsw":{
+      "name": "",
+      "virtualport":{
+        "name":"",
+        "type": "",
+      },
+      "uplink":""
+  },
+
+}
